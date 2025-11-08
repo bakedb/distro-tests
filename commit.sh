@@ -46,3 +46,6 @@ else
     stop_spinner "Git push failed."
     exit 1
 fi
+
+repo_url=$(git config --get remote.origin.url)
+echo -e "\nRemote repository: \e]8;;$repo_url\e\\$repo_url\e]8;;\e\\"
