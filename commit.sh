@@ -24,7 +24,7 @@ stop_spinner() {
 
 # Run concatenation
 start_spinner "Running concatenation..."
-if python3 concatenate.py; then
+if python3 Other/concatenate.py; then
     stop_spinner "Readme generated."
 else
     stop_spinner "Concatenation failed."

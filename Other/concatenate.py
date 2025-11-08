@@ -1,10 +1,16 @@
+import os
 from datetime import datetime
 
-disclaimer_file = "disclaimer.md"
-distro_file = "distro-rankings.md"
-desktop_file = "desktop-env-rankings.md"
+# Base directory where this script lives
+base_dir = os.path.dirname(__file__)
 
-output_file = "readme.md"
+# Input files (all inside Other/)
+disclaimer_file = os.path.join(base_dir, "disclaimer.md")
+distro_file = os.path.join(base_dir, "distro-rankings.md")
+desktop_file = os.path.join(base_dir, "desktop-env-rankings.md")
+
+# Output file (one level up from Other/)
+output_file = os.path.join(base_dir, "../readme.md")
 
 timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 

@@ -4,13 +4,13 @@
 Remember, these are only *my* opinions! If you disagree with me, I am fully open to hear your reasoning. If you think there are some details that I have missed or something that you think I should know about, tell me [here](https://cryptpad.fr/form/#/2/form/view/VYe37WeM5cA+Il19DdMQRtbB3-xuw8rBEKyGq+jI6ak/). Alternatively, you can email me at ```thatbakedbeans@proton.me```.
 
 # Distro Rankings
-> Last Updated: 2025-11-08 15:22:41
+> Last Updated: 2025-11-08 15:39:55
 
 1. Xubuntu
 2. Ubuntu Unity
 
 # Desktop Environment Rankings
-> Last Updated: 2025-11-08 15:22:41
+> Last Updated: 2025-11-08 15:39:55
 
 1. Xfce
 2. Unity
