@@ -10,3 +10,5 @@ Xfce is *really* reminding me of the default DE on Raspberry Pi OS, which I used
 One thing that I have just found out about is that any file that you drag on to any app on the launcher, it will open with that app. This feature really reminds me of macOS.
 
 So far within the first 20-ish minutes of me using Xfce, I think it might be one of my favorite DEs so far. However, that may just be because I am so familiar with it because I used a fork of it on Raspberry Pi OS for so long.
+
+![Xfce Desktop Environment](screenshot-0.png)
