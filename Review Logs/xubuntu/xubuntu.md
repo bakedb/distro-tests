@@ -16,3 +16,6 @@ So far within the first 20-ish minutes of me using Xfce, I think it might be one
 *Later...*
 
 I have been having issues whenever I close my laptop. Sometimes this happens, sometimes it doesn't. Basically, when I open the lid after it being closed for a while, it looks normal, but I can't click anything. I am still able to use my mouse cursor, however. How I fix this is by pressing Ctrl+Alt+F1 to get myself into a TTY and input the command ```sudo systemctl restart lightdm```. Then, everything restarts, and we're back in business. This might actually be a dealbreaker for me if I can't find a solution. That's pretty disappointing, seeing how much I was loving this thing.
+
+# Review
+I loved Xubuntu, besides the screen locking issues. I definitely would have tried it for more than one day, if I didn't mess around with something that bricked the install. Oops. I think that I would have almost zero problems with Xfce and Xubuntu if I were to use it on a desktop computer. It might not be what you are used to, and may not live up to your aethstetic standards, but for me, it definitely checks all of the boxes for a usable and enjoyable desktop environment and distro.
