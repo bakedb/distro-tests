@@ -27,3 +27,4 @@ Another thing that I have noticed is that when I want to put an application laun
 
 ![Bottom panel with gap](screenshot-2.png)
 
+One thing that I like about MATE that Xfce did not have is the ability to touch my trackpad instead of having to press it down or use the buttons above it. I don't know why it didn't work before, but I'm glad that it does. So far, I would definitely say that MATE is above Xfce.
