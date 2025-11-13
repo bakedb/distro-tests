@@ -16,3 +16,8 @@ Alright, an update on the VSCodium shortcut: Anduin uses GNOME, and I don't thin
 Anduin so far has been... *usable*, but I wouldn't go out of my way to choose it. It works, but there are things that work much better. It does not help that it uses GNOME, which I have had pretty bad experiences with in the past (but I don't let those past experiences sneak in to my reviews).
 
 Great, I'm having problems now that I'm trying to push these new files to GitHub. Because I wasn't able to transfer my home partition, I have to put in my email and username again. That isn't too much of a hassle, though. How often are people really switching their OS? Definitely not every 1-3 days like I am. I also had to sign in to GitHub again, which also does not take that long, but it would have taken significantly less time if I still had my LibreWolf configuration files that had my password manager and logins saved.
+
+One thing that I do like about Anduin is that 24 hour time is on by default. Of couse, that might not be such a good thing for fellow Americans (who can't subtract 12 from a number, apparently), seeing how difficult and unintuitive it was to change in MATE.
+
+## Day 2
+It has been a few days of using this distro, I just haven't written anything. It's pretty much been the same stuff as before. I think I can confidently say that I would not daily drive this distro, but it may help someone who is very aquainted with W*ndows 11. Ugh, can't believe I just wrote that. Anyway, at least it functions. 5/10.

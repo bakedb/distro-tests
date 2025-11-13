@@ -1,3 +1,4 @@
 MATE
 Xfce
 Unity
+GNOME
