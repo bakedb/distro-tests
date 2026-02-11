@@ -9,7 +9,7 @@ Remember, these are only *my* opinions! If you disagree with me, I am fully open
 1. Ubuntu MATE
 2. Xubuntu
 3. Ubuntu Unity
-4. Andiun
+4. Anduin
 
 # Desktop Environment Rankings
 > Last Updated: 2025-11-12 20:05:57
