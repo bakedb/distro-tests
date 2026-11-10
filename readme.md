@@ -4,15 +4,15 @@
 Remember, these are only *my* opinions! If you disagree with me, I am fully open to hear your reasoning. If you think there are some details that I have missed or something that you think I should know about, tell me [here](https://cryptpad.fr/form/#/2/form/view/VYe37WeM5cA+Il19DdMQRtbB3-xuw8rBEKyGq+jI6ak/). Alternatively, you can email me at ```thatbakedbeans@proton.me```.
 
 # Distro Rankings
-> Last Updated: 2025-11-12 20:05:57
+> Last Updated: 2026-11-10 11:13:54
 
 1. Ubuntu MATE
 2. Xubuntu
 3. Ubuntu Unity
-4. Anduin
+4. Andiun
 
 # Desktop Environment Rankings
-> Last Updated: 2025-11-12 20:05:57
+> Last Updated: 2026-11-10 11:13:54
 
 1. MATE
 2. Xfce
