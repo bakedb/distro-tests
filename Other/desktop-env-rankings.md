@@ -1,4 +1,4 @@
 MATE
-Xfce
+XFCE
 Unity
 GNOME
